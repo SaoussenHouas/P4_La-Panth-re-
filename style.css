@@ -24,7 +24,7 @@ body {
     bottom: 0;
     width: 100%;
     z-index: 100000;
-    background: #ffffff url("img/image-de-presentation.bmp") no-repeat center center;
+    background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
   }
   
   .bloc {
@@ -797,17 +797,17 @@ body {
   }
   
   .btn-atomic-tangerine {
-    background: #c14810;
+    background: #c14819;
     color: #ffffff !important;
   }
   
   .btn-atomic-tangerine:focus {
-    background: #6d2809;
+    background: #c14109;
     color: #ffffff !important;
   }
   
   .btn-atomic-tangerine:hover {
-    background: #6d2809 !important;
+    background: #c94609 !important;
     color: #ffffff !important;
   }
   
